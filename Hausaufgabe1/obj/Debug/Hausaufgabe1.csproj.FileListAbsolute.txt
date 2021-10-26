@@ -1,0 +1,7 @@
+C:\Meine Codes\Visual Studio 2019 Projects\Hausaufgabe1\bin\Debug\Hausaufgabe1.exe.config
+C:\Meine Codes\Visual Studio 2019 Projects\Hausaufgabe1\bin\Debug\Hausaufgabe1.exe
+C:\Meine Codes\Visual Studio 2019 Projects\Hausaufgabe1\bin\Debug\Hausaufgabe1.pdb
+C:\Meine Codes\Visual Studio 2019 Projects\Hausaufgabe1\obj\Debug\Hausaufgabe1.csproj.AssemblyReference.cache
+C:\Meine Codes\Visual Studio 2019 Projects\Hausaufgabe1\obj\Debug\Hausaufgabe1.csproj.CoreCompileInputs.cache
+C:\Meine Codes\Visual Studio 2019 Projects\Hausaufgabe1\obj\Debug\Hausaufgabe1.exe
+C:\Meine Codes\Visual Studio 2019 Projects\Hausaufgabe1\obj\Debug\Hausaufgabe1.pdb

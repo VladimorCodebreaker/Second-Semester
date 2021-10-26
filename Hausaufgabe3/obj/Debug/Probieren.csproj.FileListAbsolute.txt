@@ -1,0 +1,14 @@
+C:\Meine Codes\Visual Studio 2019 Projects\Probieren\bin\Debug\Probieren.exe.config
+C:\Meine Codes\Visual Studio 2019 Projects\Probieren\bin\Debug\Probieren.exe
+C:\Meine Codes\Visual Studio 2019 Projects\Probieren\bin\Debug\Probieren.pdb
+C:\Meine Codes\Visual Studio 2019 Projects\Probieren\obj\Debug\Probieren.csproj.AssemblyReference.cache
+C:\Meine Codes\Visual Studio 2019 Projects\Probieren\obj\Debug\Probieren.csproj.CoreCompileInputs.cache
+C:\Meine Codes\Visual Studio 2019 Projects\Probieren\obj\Debug\Probieren.exe
+C:\Meine Codes\Visual Studio 2019 Projects\Probieren\obj\Debug\Probieren.pdb
+C:\Meine Codes\Visual Studio 2019 Projects\Hausaufgabe3\bin\Debug\Probieren.exe.config
+C:\Meine Codes\Visual Studio 2019 Projects\Hausaufgabe3\bin\Debug\Probieren.exe
+C:\Meine Codes\Visual Studio 2019 Projects\Hausaufgabe3\bin\Debug\Probieren.pdb
+C:\Meine Codes\Visual Studio 2019 Projects\Hausaufgabe3\obj\Debug\Probieren.csproj.AssemblyReference.cache
+C:\Meine Codes\Visual Studio 2019 Projects\Hausaufgabe3\obj\Debug\Probieren.csproj.CoreCompileInputs.cache
+C:\Meine Codes\Visual Studio 2019 Projects\Hausaufgabe3\obj\Debug\Probieren.exe
+C:\Meine Codes\Visual Studio 2019 Projects\Hausaufgabe3\obj\Debug\Probieren.pdb
