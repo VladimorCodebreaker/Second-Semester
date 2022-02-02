@@ -6,11 +6,9 @@ using System.Threading.Tasks;
 
 namespace DSandAlgo_1
 {
-    class Task1
+    class Student
     {
-        public static void Method()
-        {
-            Console.WriteLine("Hello World");
-        }
+        public string Name { get; set; }
+        public int StudentNumber { get; set; }
     }
 }
