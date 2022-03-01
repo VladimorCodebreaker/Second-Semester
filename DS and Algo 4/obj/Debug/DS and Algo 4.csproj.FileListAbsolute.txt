@@ -1,8 +1,0 @@
-C:\Meine Codes\Visual Studio 2019\Semester 2\DS and Algo 4\bin\Debug\DS and Algo 4.exe.config
-C:\Meine Codes\Visual Studio 2019\Semester 2\DS and Algo 4\bin\Debug\DS and Algo 4.exe
-C:\Meine Codes\Visual Studio 2019\Semester 2\DS and Algo 4\bin\Debug\DS and Algo 4.pdb
-C:\Meine Codes\Visual Studio 2019\Semester 2\DS and Algo 4\obj\Debug\DS and Algo 4.csproj.AssemblyReference.cache
-C:\Meine Codes\Visual Studio 2019\Semester 2\DS and Algo 4\obj\Debug\DS and Algo 4.csproj.SuggestedBindingRedirects.cache
-C:\Meine Codes\Visual Studio 2019\Semester 2\DS and Algo 4\obj\Debug\DS and Algo 4.csproj.CoreCompileInputs.cache
-C:\Meine Codes\Visual Studio 2019\Semester 2\DS and Algo 4\obj\Debug\DS and Algo 4.exe
-C:\Meine Codes\Visual Studio 2019\Semester 2\DS and Algo 4\obj\Debug\DS and Algo 4.pdb
