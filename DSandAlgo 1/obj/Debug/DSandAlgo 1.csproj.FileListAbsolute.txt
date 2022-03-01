@@ -1,7 +1,0 @@
-C:\Meine Codes\Visual Studio 2019\Semester 2\Second-Semester\DSandAlgo 1\bin\Debug\DSandAlgo 1.exe.config
-C:\Meine Codes\Visual Studio 2019\Semester 2\Second-Semester\DSandAlgo 1\bin\Debug\DSandAlgo 1.exe
-C:\Meine Codes\Visual Studio 2019\Semester 2\Second-Semester\DSandAlgo 1\bin\Debug\DSandAlgo 1.pdb
-C:\Meine Codes\Visual Studio 2019\Semester 2\Second-Semester\DSandAlgo 1\obj\Debug\DSandAlgo 1.csproj.AssemblyReference.cache
-C:\Meine Codes\Visual Studio 2019\Semester 2\Second-Semester\DSandAlgo 1\obj\Debug\DSandAlgo 1.csproj.CoreCompileInputs.cache
-C:\Meine Codes\Visual Studio 2019\Semester 2\Second-Semester\DSandAlgo 1\obj\Debug\DSandAlgo 1.exe
-C:\Meine Codes\Visual Studio 2019\Semester 2\Second-Semester\DSandAlgo 1\obj\Debug\DSandAlgo 1.pdb
