@@ -1,0 +1,8 @@
+C:\Meine Codes\Visual Studio 2019\Semester 2\DS and Algo 3\bin\Debug\DS and Algo 3.exe.config
+C:\Meine Codes\Visual Studio 2019\Semester 2\DS and Algo 3\bin\Debug\DS and Algo 3.exe
+C:\Meine Codes\Visual Studio 2019\Semester 2\DS and Algo 3\bin\Debug\DS and Algo 3.pdb
+C:\Meine Codes\Visual Studio 2019\Semester 2\DS and Algo 3\obj\Debug\DS and Algo 3.csproj.AssemblyReference.cache
+C:\Meine Codes\Visual Studio 2019\Semester 2\DS and Algo 3\obj\Debug\DS and Algo 3.csproj.SuggestedBindingRedirects.cache
+C:\Meine Codes\Visual Studio 2019\Semester 2\DS and Algo 3\obj\Debug\DS and Algo 3.csproj.CoreCompileInputs.cache
+C:\Meine Codes\Visual Studio 2019\Semester 2\DS and Algo 3\obj\Debug\DS and Algo 3.exe
+C:\Meine Codes\Visual Studio 2019\Semester 2\DS and Algo 3\obj\Debug\DS and Algo 3.pdb

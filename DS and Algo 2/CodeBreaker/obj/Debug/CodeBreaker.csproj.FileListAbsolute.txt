@@ -1,0 +1,8 @@
+C:\Meine Codes\Visual Studio 2019\Semester 2\DS and Algo 2\CodeBreaker\bin\Debug\CodeBreaker.exe.config
+C:\Meine Codes\Visual Studio 2019\Semester 2\DS and Algo 2\CodeBreaker\bin\Debug\CodeBreaker.exe
+C:\Meine Codes\Visual Studio 2019\Semester 2\DS and Algo 2\CodeBreaker\bin\Debug\CodeBreaker.pdb
+C:\Meine Codes\Visual Studio 2019\Semester 2\DS and Algo 2\CodeBreaker\obj\Debug\CodeBreaker.csproj.AssemblyReference.cache
+C:\Meine Codes\Visual Studio 2019\Semester 2\DS and Algo 2\CodeBreaker\obj\Debug\CodeBreaker.csproj.SuggestedBindingRedirects.cache
+C:\Meine Codes\Visual Studio 2019\Semester 2\DS and Algo 2\CodeBreaker\obj\Debug\CodeBreaker.csproj.CoreCompileInputs.cache
+C:\Meine Codes\Visual Studio 2019\Semester 2\DS and Algo 2\CodeBreaker\obj\Debug\CodeBreaker.exe
+C:\Meine Codes\Visual Studio 2019\Semester 2\DS and Algo 2\CodeBreaker\obj\Debug\CodeBreaker.pdb
