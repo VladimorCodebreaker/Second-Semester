@@ -1,8 +1,0 @@
-C:\Meine Codes\Visual Studio 2019\Semester 2\Semester2Lectures\Lecture2\bin\Debug\Lecture2.exe.config
-C:\Meine Codes\Visual Studio 2019\Semester 2\Semester2Lectures\Lecture2\bin\Debug\Lecture2.exe
-C:\Meine Codes\Visual Studio 2019\Semester 2\Semester2Lectures\Lecture2\bin\Debug\Lecture2.pdb
-C:\Meine Codes\Visual Studio 2019\Semester 2\Semester2Lectures\Lecture2\obj\Debug\Lecture2.csproj.AssemblyReference.cache
-C:\Meine Codes\Visual Studio 2019\Semester 2\Semester2Lectures\Lecture2\obj\Debug\Lecture2.csproj.CoreCompileInputs.cache
-C:\Meine Codes\Visual Studio 2019\Semester 2\Semester2Lectures\Lecture2\obj\Debug\Lecture2.exe
-C:\Meine Codes\Visual Studio 2019\Semester 2\Semester2Lectures\Lecture2\obj\Debug\Lecture2.pdb
-C:\Meine Codes\Visual Studio 2019\Semester 2\Semester2Lectures\Lecture2\obj\Debug\Lecture2.csproj.SuggestedBindingRedirects.cache
