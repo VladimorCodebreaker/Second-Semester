@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Comment CommentText="UML Diagram Sample 1&#xD;&#xA;">
+    <Position X="1.542" Y="0.875" Height="0.75" Width="1.7" />
+  </Comment>
+  <Class Name="Programming_5.Task_1.School" HideInheritanceLine="true">
+    <Position X="6.25" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>Task 1\School.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Programming_5.Task_1.Person">
+    <Position X="9" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Task 1\Person.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Programming_5.Task_1.Student">
+    <Position X="10.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Task 1\Student.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Programming_5.Task_1.Teacher">
+    <Position X="7.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>Task 1\Teacher.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Programming_5.Task_1.Course">
+    <Position X="4.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEQAAAAQAgACAAAACAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Task 1\Course.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Student" />
+      <Property Name="Teacher" />
+    </ShowAsAssociation>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
